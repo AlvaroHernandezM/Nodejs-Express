@@ -2,7 +2,8 @@
   "name": "practicaentregas",
   "version": "0.0.0",
   "engines": {
-    "node": "4.7.3"
+    "node": "4.7.3",
+    "npm": "2.15.11"
   }
   "private": true,
   "scripts": {
