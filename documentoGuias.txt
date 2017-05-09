@@ -6,3 +6,6 @@ https://expressjs.com/en/guide/routing.html
 configuracion comando 24
 instalacion dependecias 
 
+
+https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
+
